@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7100205271490726589}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,12 +110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hurtListener: {fileID: 3618843562512249572}
   healListener: {fileID: 6839411110070672713}
-  P1: 1
-  P2: 0
-  P3: 0
   movement: {x: 0, y: 0}
-  topLimit: 4
-  bottomLimit: -4
   speed: 10
 --- !u!58 &1710713587738481548
 CircleCollider2D:

@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\DamageZone.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scriptable Objects\Events\GameEvent.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\PlayerController1.cs" />
     <Compile Include="Assets\Scripts\HealthHeart.cs" />
     <Compile Include="Assets\Scripts\ChangeHealth.cs" />
